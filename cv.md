@@ -8,3 +8,8 @@
 ## About myself
 I'm an engineer. During my free time I make sites with constructors such as Wix, Tilda and make sites with cms concrete5.
 But my knowledge in developing powerfull and cool sites is weak. So, I wand to be a good front-end developer, that is why I started to learn courses in _RSSchool_
+
+## My skills
+HTML (html5), CSS (less, styl, BEM)
+Git/GitHub
+Figma, Zeplin, Photoshop

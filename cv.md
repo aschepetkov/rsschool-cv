@@ -17,3 +17,7 @@ Figma, Zeplin, Photoshop
 ## Work experience
 Not enought eprerience. I made some small sites with constructor,  but I don't think it's a useful experience
 for front-end development
+
+## Language
+* Russian - native
+* English - school and university education

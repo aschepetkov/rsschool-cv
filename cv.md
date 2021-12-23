@@ -13,3 +13,7 @@ But my knowledge in developing powerfull and cool sites is weak. So, I wand to b
 HTML (html5), CSS (less, styl, BEM)
 Git/GitHub
 Figma, Zeplin, Photoshop
+
+## Work experience
+Not enought eprerience. I made some small sites with constructor,  but I don't think it's a useful experience
+for front-end development
